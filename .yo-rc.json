@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.nedstack.store",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.10.1",
+    "applicationType": "monolith",
+    "baseName": "olondes",
+    "packageName": "com.nedstack.store",
+    "packageFolder": "com/nedstack/store",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "OGFhNGNjYzIwYzY1MWQzYWRkZDhjYWExYzE3Y2IwM2IzYTJjYjlhNTQ0OTM1NzA5MWRkNmFkMzY1MzUxMzNkNGQxYzJjNWI3ODcwMTgxNGE3YmNmZmExZTg3ZDgxYTAzZGIyNmY3OTYyYzRiOGMzOWNlZmE1OTU4ZWVjNTM5ZTA=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1601743766283,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en"],
+    "blueprints": [],
+    "reactive": true
+  }
+}
